@@ -8,7 +8,7 @@ import time
 # ================= KHOOD KI DETAILS =================
 API_ID = 35237965  
 API_HASH = "ca376f2bed12f0efced887b7ae90e067"  
-BOT_TOKEN = "8713015539:AAEyUh7zoXZGrn93RhvvvqKoB46ZMOeaXX"  
+BOT_TOKEN = "8463117288:AAHEbDa2tLhif69cUJa62eXYkTM3edTfyto"  
 OWNER_ID = 5884320645  
 ADMIN_USERNAME = "KILLER_367"  # Bina '@' ke
 # ====================================================
